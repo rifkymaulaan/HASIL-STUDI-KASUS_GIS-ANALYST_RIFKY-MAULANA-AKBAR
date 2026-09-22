@@ -35,5 +35,7 @@ Script pada repositori ini dirancang untuk dieksekusi menggunakan Google Colab. 
    * **PENTING:** Ganti `project='...'` pada fungsi `ee.Initialize()` dengan ID Google Cloud project Earth Engine Anda sendiri.
 3. Persiapan Data Eksternal:
    Jika ingin melakukan klasifikasi ulang dari nol, pastikan Anda mengunduh citra Sentinel-2 Sarbagita (.tif) dan data pendukung lainnya dan menyimpannya di folder Drive Anda terlebih dahulu.
+ 
+*Catatan: Seluruh alur analisis spasial, konseptualisasi, dan keputusan metodologi dikerjakan dan divalidasi sendiri oleh saya, dengan dukungan asistensi kecerdasan buatan (AI) dalam perumusan struktur script Python/GEE dan dokumentasi teknis.*
 
 -----

@@ -16,9 +16,9 @@ Model Random Forest dilatih menggunakan fitur spektral asli dan indeks turunan (
 
 ### 2. Tren Perubahan Tutupan Lahan (2020 - 2023)
 Hasil klasifikasi mengonfirmasi adanya tren urbanisasi yang terdeteksi oleh model:
-*   Ekspansi Perkotaan: Terdapat peningkatan luasan pada kelas Permukiman (Kelas 1) dari ~2,6 juta piksel menjadi ~2,8 juta piksel. Lahan Terbuka (Kelas 5) juga meningkat dari ~123 ribu menjadi ~191 ribu piksel.
-*   Alih Fungsi Lahan: Peningkatan urbanisasi ini selaras dengan menyusutnya luasan Sawah/Vegetasi Campur (Kelas 4), yang turun dari ~9,2 juta piksel menjadi ~8,5 juta piksel. 
-*   Vegetasi Lebat: Tercatat adanya peningkatan luasan Vegetasi (Kelas 3) dari ~5,4 juta menjadi ~6,0 juta piksel. Badan air (Kelas 2) mengalami sedikit penurunan luasan.
+*   Ekspansi Perkotaan: Terdapat peningkatan luasan pada kelas Permukiman (Kelas 4) dari ~2,6 juta piksel menjadi ~2,8 juta piksel. Lahan Terbuka (Kelas 5) juga meningkat dari ~123 ribu menjadi ~191 ribu piksel.
+*   Alih Fungsi Lahan: Peningkatan urbanisasi ini selaras dengan menyusutnya luasan Sawah/Vegetasi Campur (Kelas 3), yang turun dari ~9,2 juta piksel menjadi ~8,5 juta piksel. 
+*   Vegetasi Lebat: Tercatat adanya peningkatan luasan Vegetasi (Kelas 2) dari ~5,4 juta menjadi ~6,0 juta piksel. Badan air (Kelas 1) mengalami sedikit penurunan luasan.
 
 ## Struktur Repositori
 *   `notebook/` : Berisi *script* Python / Jupyter Notebook utama (`sarbagita_landcover_projection_rifky_maulana_akbar.py`).
